@@ -1,0 +1,39 @@
+{
+  "name": "thai-postcode-helper",
+  "version": "1.0.0",
+  "description": "Thai address postcode resolver with fuzzy and bilingual support",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build",
+    "test": "ts-node test.ts"
+  },
+  "files": [
+    "dist",
+    "data"
+  ],
+  "keywords": [
+    "thai",
+    "postcode",
+    "zipcode",
+    "fuzzy",
+    "thailand",
+    "address",
+    "district",
+    "subdistrict",
+    "province"
+  ],
+  "author": "Chawit Tanachochaow",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "fuse.js": "^7.1.0",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
