@@ -26,6 +26,14 @@
   "author": "Chawit Tanachochaow",
   "license": "MIT",
   "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Chawit-hart/thai-postcode-helper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Chawit-hart/thai-postcode-helper/issues"
+  },
+  "homepage": "https://github.com/Chawit-hart/thai-postcode-helper#readme",
   "dependencies": {
     "exceljs": "^4.4.0",
     "fuse.js": "^7.1.0",

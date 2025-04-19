@@ -2,7 +2,9 @@
 
 [![npm version](https://img.shields.io/npm/v/thai-postcode-helper)](https://www.npmjs.com/package/thai-postcode-helper)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Build](https://img.shields.io/github/actions/workflow/status/Chawit-hart/thai-postcode-helper/ci.yml?label=build)](https://github.com/Chawit-hart/thai-postcode-helper/actions)
+![Node Version](https://img.shields.io/badge/node-%3E=14.0.0-blue.svg)
+[![npm downloads](https://img.shields.io/npm/dm/thai-postcode-helper.svg)](https://www.npmjs.com/package/thai-postcode-helper)
+
 
 A Thai address postcode resolver with fuzzy search and bilingual (Thai/English) support.
 
